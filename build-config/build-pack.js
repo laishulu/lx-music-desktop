@@ -24,7 +24,7 @@ const options = {
     output: './build',
   },
   "toolsets": {
-    "appimage": "latest"
+    "appimage": "1.0.3"
   },
   files: [
     '!node_modules/**/*',
